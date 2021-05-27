@@ -1,0 +1,13 @@
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Servicio.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Servicio.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Entidades.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Logica.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Persistencia.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Entidades.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Logica.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\bin\Persistencia.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\obj\Debug\Servicio.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Servicio\obj\Debug\Servicio.pdb

@@ -1,0 +1,9 @@
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\bin\Debug\Persistencia.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\bin\Debug\Persistencia.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\bin\Debug\Entidades.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\bin\Debug\Entidades.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\obj\Debug\Persistencia.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Persistencia\obj\Debug\Persistencia.pdb

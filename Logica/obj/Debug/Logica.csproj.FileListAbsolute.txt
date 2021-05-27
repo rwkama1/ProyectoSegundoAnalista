@@ -1,0 +1,11 @@
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\bin\Debug\Logica.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\bin\Debug\Logica.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\bin\Debug\Entidades.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\bin\Debug\Persistencia.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\bin\Debug\Entidades.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\bin\Debug\Persistencia.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\obj\Debug\Logica.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Logica\obj\Debug\Logica.pdb

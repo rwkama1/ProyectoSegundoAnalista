@@ -1,0 +1,6 @@
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Composite\bin\Debug\Composite.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Composite\bin\Debug\Composite.pdb
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Composite\obj\Debug\Composite.dll
+D:\ANDRES\2 ndo año analista de sistemas\ProyectoSegundoAño\ProyectoWCFActualizado\Composite\obj\Debug\Composite.pdb
